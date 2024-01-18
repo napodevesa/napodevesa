@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @napodevesa
-- 👀 I’m interested in AI and IoT 
-- 💞️ I’m looking to collaborate on IoT projects
+- 👀 I’m interested in AI, data science and IoT 
 - 📫 How to reach me napodevesa@gmail.com
 
